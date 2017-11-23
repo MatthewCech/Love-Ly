@@ -1,0 +1,1 @@
+start ./bin/lovec.exe "./test02-resources"
