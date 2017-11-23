@@ -1,1 +1,0 @@
-start ./engine/love.exe ./game

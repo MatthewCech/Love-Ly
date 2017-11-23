@@ -1,1 +1,0 @@
-start ./engine/lovec.exe ./game
