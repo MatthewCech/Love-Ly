@@ -1,0 +1,1 @@
+start ./bin/lovec.exe "./test01-hello world"
