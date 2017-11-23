@@ -1,7 +1,7 @@
 # Love-Ly
 A Love2D testbed!
 
-Love2D Windows Setup notes:
+### Love2D Windows Setup notes:
 
 - Make a directory and give it whatever name you want
 - Inside that directory, add main.lua. Go ahead and add some hello world text to that!:
