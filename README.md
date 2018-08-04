@@ -1,4 +1,4 @@
-# Love-Ly
+# LoveTest
 A Love2D testbed! Note - including binaries in git repos is ill-advised, and I am only doing it to simplify this matter. The idea is that the repo itself is stand-alone.
 
 ### Love2D Windows Setup notes:
